@@ -1,0 +1,16 @@
+.body_bg{
+  background:#222D32;
+}
+.mt_150{
+  margin-top:150px;
+}
+
+.text-center{
+  text-center:center;
+}
+
+.panel-title{
+   height:40px;
+  line-height: 40px;
+  font-size: 20px;
+}
